@@ -16,10 +16,14 @@ section{
 .half-width{
     width: 50%;
     padding-left: 7%;
+   
 }
 .half-width img{
     width: 80%;
+    
 }
+
+
 .Tap-button{
     text-decoration: none;
     background-color: darkorange;
@@ -58,4 +62,33 @@ section{
     padding-left: 7%;
     padding-right: 7%;
     display: flex;
+}
+.padding{
+    padding-right: 9%;
+}
+#background-image1{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left; 
+    background-size: 200px;
+}
+#background-image2{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right; 
+    background-size: 200px;
+    
+}
+
+
+footer{
+    font-family: 'Ubuntu', sans-serif;
+}
+#last-background{
+    background-color: black;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.white{
+    color: white ;
 }
