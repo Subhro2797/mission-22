@@ -29,4 +29,33 @@ section{
     color: white;
     font-weight: 600;
 }
-
+#headline{
+    text-align: center;
+    font-size: 50px;
+}
+.equal-width{
+    width: 50%;
+    padding-left: 2%;
+    padding-right: 7%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border: 15px solid white;
+    border-radius: 40px;
+}
+.equal-width img{
+    width: 50%;
+}
+#bgc1{
+    background-color: lavender;
+}
+#bgc2{
+    background-color: moccasin;
+}
+#bgc3{
+    background-color: lightgreen;
+}
+.border-space{
+    padding-left: 7%;
+    padding-right: 7%;
+    display: flex;
+}
