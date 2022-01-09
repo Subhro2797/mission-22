@@ -1,0 +1,32 @@
+body{
+    font-family: 'Lobster Two', cursive;
+}
+h1{
+    font-size: 50px;
+}
+#sentence{
+    font-size: 20px;
+}
+.dark-orange{
+    color: darkorange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 7%;
+}
+.half-width img{
+    width: 80%;
+}
+.Tap-button{
+    text-decoration: none;
+    background-color: darkorange;
+    padding: 10px 20px;
+    border-radius: 60px;
+    background-image: linear-gradient(darkorange red);
+    color: white;
+    font-weight: 600;
+}
+
