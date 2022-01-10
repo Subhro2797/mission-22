@@ -15,6 +15,7 @@ section{
 }
 .half-width{
     width: 50%;
+    
     padding-left: 7%;
    
 }
@@ -33,7 +34,7 @@ section{
     color: white;
     font-weight: 600;
 }
-#headline{
+.headline{
     text-align: center;
     font-size: 50px;
 }
@@ -79,16 +80,30 @@ section{
     background-size: 200px;
     
 }
+.radius{
+    border-radius: 20x 40px 20px 40px;
+    
+}
+#bg{
+    background-image: url(images/shapes/shape-8.png);
+    background-size: 70px;
+    background-position: right top;
+    background-repeat: no-repeat;
 
+    
+}
 
 footer{
     font-family: 'Ubuntu', sans-serif;
 }
 #last-background{
     background-color: black;
-    padding-top: 25px;
+    padding-top: 40px;
     padding-bottom: 25px;
 }
 .white{
     color: white ;
+}
+#padding-left{
+    padding-right: 20%;
 }
